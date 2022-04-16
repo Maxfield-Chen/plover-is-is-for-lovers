@@ -1,0 +1,23 @@
+# VimClaw Principles
+
+## Using the Vowels as Layers
+
+### _ - Basic Movement / Common Letters
+### O - G**o** / Advanced Movement
+### A - Y**a**k / P**a**ste
+### E - **E**diting Modes 
+### U - Layout / Window / View 
+### EE (AOE) - **E**xtreme editing / Macros / Text Formatting / Plugins 
+### I (EU) - **I**nsert Compounds
+### Eye (AOEU) - Files / Project Search
+### KWHR - Quit
+
+## Common functionality across vowel layers whenever possible 
+* -F /- B for Forwards / Backwards
+* -R / -P for Upwards / Downwards
+* Borrow right hand symbol endings from plover
+	* -GS as " from KRGS
+* \* as Capital
+
+
+
